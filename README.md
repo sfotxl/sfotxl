@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kalani
 - 👀 I’m interested in working with maps and building nice stuff
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me - +1 (346) 247-6864
 
 <!---
